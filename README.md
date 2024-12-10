@@ -41,4 +41,24 @@
   <img src="https://streak-stats.demolab.com?user=dmohorcic&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<h3 align="left">🎄 Advent of Code - <a href="https://adventofcode.com">adventofcode.com</a></h3>
+<h3 align="left">🎄 Advent of Code</h3>
+<div align="left" background-color="#FBD603">
+  <table>
+    <tr>
+      <td><p>$\textcolor{#009900}{[2024]}$ $\textcolor{#ffff66}{10*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2023]}$ $\textcolor{#ffff66}{26*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2022]}$ $\textcolor{#ffff66}{4*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2021]}$ $\textcolor{#ffff66}{30*}$</p></td>
+    </tr>
+    <tr>
+      <td><p>$\textcolor{#009900}{[2020]}$ $\textcolor{#ffff66}{50*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2019]}$ $\textcolor{#ffff66}{8*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2018]}$ $\textcolor{#ffff66}{2*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2017]}$ $\textcolor{#ffff66}{0*}$</p></td>
+    </tr>
+    <tr>
+      <td><p>$\textcolor{#009900}{[2016]}$ $\textcolor{#ffff66}{0*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2015]}$ $\textcolor{#ffff66}{4*}$</p></td>
+    </tr>
+  </table>
+</div>
