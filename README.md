@@ -7,10 +7,13 @@
 </div>
 </div>
 
-<h3 align="left">🛠️ Languages and tools</h3>
+### 🛠️ Languages and tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- <h3 align="left">🛠️ Languages and tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,go,mongodb,fastapi,aws,docker,anaconda" alt="Skill Icons" />
-</div>
+</div> -->
 
 <h3 align="left">📖 Publications</h3>
 <div align="left">
