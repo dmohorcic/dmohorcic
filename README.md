@@ -8,12 +8,19 @@
 </div>
 
 ### 🛠️ Languages and tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!-- <h3 align="left">🛠️ Languages and tools</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,mongodb,fastapi,aws,docker,anaconda" alt="Skill Icons" />
-</div> -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 <h3 align="left">📖 Publications</h3>
 <div align="left">
