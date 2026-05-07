@@ -14,7 +14,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white)
 ![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)
@@ -41,11 +40,14 @@
 ### 🔥 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=dmohorcic&border_radius=10&date_format=j%20M%5B%20Y%5D)
 
-<h3 align="left">🎄 Advent of Code</h3>
+### 🧮 Project Euler [[link](https://projecteuler.net)]
+Solved 136 out of 995 problems (13.7%)
+
+### 🎄 Advent of Code [[link](https://adventofcode.com)]
 <div align="left" background-color="#FBD603">
   <table>
     <tr>
-      <td><p>$\textcolor{#009900}{[2025]}$ $\textcolor{#ffff66}{22*}$</p></td>
+      <td><p>$\textcolor{#009900}{[2025]}$ $\textcolor{#ffff66}{24*}$</p></td>
       <td><p>$\textcolor{#009900}{[2024]}$ $\textcolor{#ffff66}{10*}$</p></td>
       <td><p>$\textcolor{#009900}{[2023]}$ $\textcolor{#ffff66}{26*}$</p></td>
       <td><p>$\textcolor{#009900}{[2022]}$ $\textcolor{#ffff66}{4*}$</p></td>
