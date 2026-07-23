@@ -31,6 +31,8 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 ### 📖 Publications
+- Blood biochemistry age clock: An interpretable estimate of biological age and predictor of all-cause mortality derived from routinely ordered blood biomarkers [[paper](10.1016/j.mad.2026.112230)]
+  > Šelb, J., Deutsch, L., Červek, M., Pratt, M., Bedrač, L., Mohorčič, D., Sebanc, N., Ašič, U., Terzič, S., Kuščer, E., Maier, A. B., & Cvetko, F. (2026). Blood biochemistry age clock: An interpretable estimate of biological age and predictor of all-cause mortality derived from routinely ordered blood biomarkers. Mechanisms of Ageing and Development, 112230.
 - Transfer Learning for Phenotype Prediction from Small Gene Expression Data Sets [[paper](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161755&lang=eng)] [[code](https://github.com/dmohorcic/masters_thesis_TLPPSGEDS)]
   > D. Mohorčič, "Transfer Learning for Phenotype Prediction from Small Gene Expression Data Sets", Master’s thesis, 2024 [Online].
 - [Re] Hierarchical Shrinkage: Improving the Accuracy and Interpretability of Tree-Based Methods [[OpenReview](https://openreview.net/forum?id=NgPQSqpz-Y)] [[ReScience](http://rescience.github.io/bibliography/Mohorcic_2023.html)] [[NeurIPS 2023 poster](https://neurips.cc/virtual/2023/poster/74164)] [[code](https://github.com/do8572/MLDS)]
