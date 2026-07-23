@@ -42,7 +42,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=dmohorcic&border_radius=10&date_format=j%20M%5B%20Y%5D)
 
 ### 🧮 Project Euler [[projecteuler.net](https://projecteuler.net)]
-Solved 138 out of 996 problems (13.9%)
+Solved 145 out of 1007 problems (14.4%)
 
 ### 🎄 Advent of Code [[adventofcode.com](https://adventofcode.com)]
 <div align="left" background-color="#FBD603">
