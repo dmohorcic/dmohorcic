@@ -1,13 +1,3 @@
-<div align="center">
-  <h1>Domen Mohorcic</h1>
-  <p><em>Machine learning · Bioinformatics · Python/Go</em></p>
-  <div id="badges">
-  <a href="https://linkedin.com/in/dmohorcic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-  </a>
-  </div>
-</div>
-
 ### 👋 About me
 
 Data engineer at NU, developing analysis algorithms for multimodal biological data and data pipelines.
