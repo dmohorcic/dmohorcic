@@ -34,6 +34,7 @@ Interested in data science, machine learning, and algorithms.
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-gray?logo=openapiinitiative&logoColor=6BA539&labelColor=white&color=6BA539)
 
 ### 📖 Publications
 - Blood biochemistry age clock: An interpretable estimate of biological age and predictor of all-cause mortality derived from routinely ordered blood biomarkers [[paper](https://doi.org/10.1016/j.mad.2026.112230)]
