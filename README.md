@@ -30,10 +30,10 @@ Interested in data science, machine learning, and algorithms.
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=AmazonDynamoDB&logoColor=white)
 ![Amazon Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
 ### 📖 Publications
 - Blood biochemistry age clock: An interpretable estimate of biological age and predictor of all-cause mortality derived from routinely ordered blood biomarkers [[paper](https://doi.org/10.1016/j.mad.2026.112230)]
