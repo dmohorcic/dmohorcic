@@ -57,7 +57,7 @@ Interested in data science, machine learning, and algorithms.
 
 #### 🧮 Project Euler [[projecteuler.net](https://projecteuler.net)]
 
-Solved 160 problems — top 0.622% of all solvers
+Solved 163 problems — top 0.602% of all solvers
 
 ![](https://projecteuler.net/profile/dmohorcic.png)
 
